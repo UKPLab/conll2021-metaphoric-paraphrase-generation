@@ -11,8 +11,7 @@ https://www.ukp.tu-darmstadt.de/
 
 https://www.tu-darmstadt.de/
 
-This repository is still under construction: we will be fully operational by CoNLL 2021 (Nov 10, 2021)
+<b>This repository is still under construction: we will be fully operational by CoNLL 2021 (Nov 10, 2021)</b>
 
-%Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions.
 
 > This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication. 
